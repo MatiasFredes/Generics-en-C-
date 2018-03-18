@@ -1,0 +1,10 @@
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.Tests.dll
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.Tests.pdb
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.exe
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.pdb
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.exe.config
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.dll
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.pdb

@@ -1,0 +1,7 @@
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\Matias\Documents\Language\c# Path\3-csharp-generics-m3-classes-exercise-files\excercises\before\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
